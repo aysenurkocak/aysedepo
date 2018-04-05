@@ -1,0 +1,6 @@
+
+Daha önce UNIX tabanlı bir işletim sisteminde çalışanlar için Linux, öğrenilmesi çok kolay bir sistem olacaktır. Standart bir UNIX sisteminde yeralan hemen hemen tüm komutlar, Linux'a taşınmıştır. Onlarca çeşit kabuğun yanı sıra, sed, awk gibi programcının işini kolaylaştıran diller, ls, less, finger gibi temel her türlü komut, Linux'ta vardır.
+
+Ağ ve İnternet uygulamaları için elm ve pine (Pine Is Not Elm :-) yanında metin editörleri olarak vi, vim (vi'ın daha gelişmiş sürümü), pico ve joe sayılabilir. Editörlerden, bizde fazla bilinmeyen Emacs da Linux altında denemeye değer programlardandır. Kelime işlem programlarından troff, groff (GNU troff) ve daha modern metin işleme yazılımlarından TeX ve LaTeX sayılabilir.
+
+Bazı program isimlerinin (GNU-tar, GNU-bash gibi) başında görebileceğiniz GNU (Gnu is Not UNIX!), Linux için de yazılım ve programlar üreten bir kuruluştur. GNU, lisansını ve yazarını korumak koşuluyla programları kaynak koduyla birlikte Linux kullanıcılarına dağıtır. GNU bash ve tcsh, Linux altında en çok rağbet edilen iki kabuk ismidir. Diğer kabuklar arasında zsh, ash, ksh ve csh sayılabilir. 
